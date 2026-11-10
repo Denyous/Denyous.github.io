@@ -4,9 +4,9 @@ const projects = [
         name: "Magic Market",
 
         description:
-            "A 2D farming and market simulation game where players manage a shop and grow magical crops.",
+            "Magic Market is a 2D farming and shop management game where players run a market and grow magical crops. Developed with Unity and C#, the project combines farming mechanics, resource management, customer interactions, and the MVP architecture pattern.",
 
-        technologies: "Unity • C# • MVP Pattern",
+        technologies: "",
 
         images: [
             "assets/Images/Magic_Market-1.png",
@@ -22,9 +22,9 @@ const projects = [
         name: "Jewelry Store",
 
         description:
-            "A jewelry store management game focused on buying and selling jewelry with customers.",
+            "Jewelry Store is a shop management game where players buy and sell various pieces of jewelry while interacting with customers..",
 
-        technologies: "Unity • C# • MVP Pattern • Events",
+        technologies: "",
 
         images: [
             "assets/Images/Jewelry-1.jpg",
@@ -40,9 +40,9 @@ const projects = [
         name: "The Pursuer",
 
         description:
-            "A game development project showcasing gameplay mechanics and interactive systems.",
+            "The Pursuer is a space-themed game where players explore the universe and face challenging obstacles. Developed with Unity and C#, the game was successfully published on Google Play, marking an important milestone in my game development journey.",
 
-        technologies: "Unity • C#",
+        technologies: "",
 
         images: [
             "assets/Images/The Pursuer-1.png",
@@ -52,15 +52,17 @@ const projects = [
         video: "assets/Videos/The Pursuer_Gameplay_.mp4",
 
         github: ""
+
+        
     },
 
     {
         name: "Tile-Vania",
 
         description:
-            "A 2D platformer featuring character controllers, enemy AI and tilemap-based environments.",
+            "Tile-Vania is a 2D platformer game featuring character movement, enemy AI, and tilemap-based environments. Developed with Unity and C#, the project allowed me to gain hands-on experience in character controllers, enemy behavior, and level design systems.",
 
-        technologies: "Unity • C# • Tilemap",
+        technologies: "",
 
         images: [
             "assets/Images/Tile-Vania -1.jpg",
